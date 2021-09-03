@@ -1,0 +1,26 @@
+button{
+    background-color: rgb(162, 0, 255);
+    color: rgb(0, 0, 0);
+    border: white 2px solid;
+    border-radius: 5px;
+    font-size: 3em;
+    font-weight: 800;
+    width: 100%;
+}
+.div1{
+    margin: 2px 0;
+    height: 400px;
+    padding: 10px;
+    overflow-y: hidden;
+}
+.div2{
+    background-color: violet;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 90%;
+}
