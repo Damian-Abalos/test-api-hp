@@ -1,4 +1,4 @@
-const URLJSON = "http://hp-api.herokuapp.com/api/characters"
+const URLJSON = "https://pokeapi.co/api/v2/pokemon/"
 
 $("section").prepend('<button id="btn1">MOSTRAR PERSONAJES</button>');
 let botonApi = document.getElementById("btn1");
